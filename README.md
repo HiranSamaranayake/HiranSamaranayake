@@ -6,7 +6,6 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning ****
 
 - 🧑‍🎓 I’m an Undergraduate at **UWU | ICET**
 
