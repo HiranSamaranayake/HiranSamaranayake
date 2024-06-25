@@ -6,7 +6,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning ****
 
 - 🧑‍🎓 I’m an Undergraduate at **UWU | ICET**
 
@@ -63,6 +63,10 @@
 <a href="https://www.linkedin.com/in/hiran-samaranayake-3a596a2a5/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Hiran_Samaranayake" height="50" width="50" /></a>
 <a href="https://medium.com/@hiransamaranayake" target="blank"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium-Symbol-Black-RGB.svg" alt="Hiran_Samaranayake" height="50" width="50" /></a>
 <a href="https://www.facebook.com/hiran.anjana.7?mibextid=kFxxJD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hiran_Samaranayake" height="50" width="50" /></a>
+	<p align="center">
+  <a href="https://www.buymeacoffee.com/sharadamarG">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharadamarG" />
+  </a>
 <a href="https://www.instagram.com/hiran_samaranayake?igsh=MXJiZm1zeTlubzlqMQ==" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Hiran_Samaranayake" height="50" width="50" /></a>
 </p>
 
