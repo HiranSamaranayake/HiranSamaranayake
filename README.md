@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hello  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>  I'm Hiran Samaranayake </b></h1>
-<h3 align="center">Computer Science Undergraduate | AI & ML Explorer</h3>
+<h3 align="center">Software Developer | AI & ML Explorer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Asanka-GAP&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
