@@ -7,7 +7,7 @@
 <td width="50%" align="left">
   
 
-- 🧑‍🎓 I’m an Undergraduate at **UWU | ICET**
+- 🧑‍🎓 I’m an Undergraduate at **UWU**
 
 - 💬 Ask me about **Software Development**
 
