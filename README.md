@@ -68,13 +68,7 @@
 
 <br/>
 
-## 🌌 Keep Building
 
-<div align="center">
-
-<img src="./assets/hiran-space-footer.gif" alt="Animated developer astronaut footer" width="100%" />
-
-<br/>
 
 ### “The best way to predict the future is to build it.”
 
