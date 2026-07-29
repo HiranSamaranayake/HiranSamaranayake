@@ -68,7 +68,7 @@
 
 <br/>
 
-
+<center>
 
 ### “The best way to predict the future is to build it.”
 
@@ -79,3 +79,4 @@
 <img src="https://img.shields.io/badge/Thanks_for_visiting!-0D419D?style=for-the-badge&logo=github&logoColor=white" alt="Thanks for visiting" />
 
 </div>
+</center>
