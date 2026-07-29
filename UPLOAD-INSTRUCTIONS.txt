@@ -1,0 +1,18 @@
+HiranSamaranayake Premium README
+
+Upload these items to the root of your public GitHub profile repository:
+- README.md
+- assets/ (the complete folder)
+
+The repository must be:
+HiranSamaranayake/HiranSamaranayake
+
+Keep all filenames unchanged. The README uses relative links to the files inside assets.
+
+Files:
+- assets/hiran-3d-hero.gif
+- assets/hiran-space-footer.gif
+- assets/developer-dashboard.svg
+- PNG fallbacks are included for backup.
+
+No trophy section is included. GitHub statistics are live and use GitHub Profile Summary Cards.

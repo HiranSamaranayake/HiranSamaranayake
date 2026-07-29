@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#061224"/>
+      <stop offset="100%" stop-color="#081a37"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1f40"/>
+      <stop offset="100%" stop-color="#07152c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2f81f7"/>
+      <stop offset="55%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .title{font:700 24px 'Segoe UI',Arial,sans-serif;fill:#58a6ff}
+      .head{font:700 20px 'Segoe UI',Arial,sans-serif;fill:#ffffff}
+      .body{font:400 17px 'Segoe UI',Arial,sans-serif;fill:#c9d1d9}
+      .small{font:400 15px 'Segoe UI',Arial,sans-serif;fill:#9ecbff}
+    </style>
+  </defs>
+  <rect width="1200" height="430" rx="28" fill="url(#bg)" stroke="#1f6feb" stroke-opacity=".45"/>
+  <rect x="28" y="28" width="358" height="374" rx="22" fill="url(#card)" stroke="#2f81f7" stroke-opacity=".55"/>
+  <rect x="421" y="28" width="358" height="374" rx="22" fill="url(#card)" stroke="#22d3ee" stroke-opacity=".50"/>
+  <rect x="814" y="28" width="358" height="374" rx="22" fill="url(#card)" stroke="#8b5cf6" stroke-opacity=".50"/>
+
+  <path d="M52 78 H362" stroke="url(#accent)" stroke-width="3" opacity=".8" filter="url(#glow)"/>
+  <path d="M445 78 H755" stroke="url(#accent)" stroke-width="3" opacity=".8" filter="url(#glow)"/>
+  <path d="M838 78 H1148" stroke="url(#accent)" stroke-width="3" opacity=".8" filter="url(#glow)"/>
+
+  <text x="52" y="62" class="title">👋  ABOUT ME</text>
+  <text x="52" y="120" class="body">I enjoy building clean, useful and</text>
+  <text x="52" y="150" class="body">user-friendly digital experiences.</text>
+  <text x="52" y="194" class="body">My main interests are Java, React</text>
+  <text x="52" y="224" class="body">and practical AI-powered solutions.</text>
+  <text x="52" y="268" class="body">I keep learning, experimenting and</text>
+  <text x="52" y="298" class="body">turning ideas into working projects.</text>
+  <rect x="52" y="330" width="286" height="46" rx="14" fill="#0a2045" stroke="#2f81f7"/>
+  <text x="195" y="359" text-anchor="middle" class="small">Always learning. Always building. 🚀</text>
+
+  <text x="445" y="62" class="title">🚀  WHAT I DO</text>
+  <circle cx="470" cy="126" r="18" fill="#102b58" stroke="#2f81f7"/>
+  <text x="503" y="124" class="head">Java Development</text>
+  <text x="503" y="149" class="small">Structured and maintainable solutions</text>
+
+  <circle cx="470" cy="204" r="18" fill="#102b58" stroke="#22d3ee"/>
+  <text x="503" y="202" class="head">React Interfaces</text>
+  <text x="503" y="227" class="small">Responsive and interactive frontends</text>
+
+  <circle cx="470" cy="282" r="18" fill="#102b58" stroke="#8b5cf6"/>
+  <text x="503" y="280" class="head">AI Exploration</text>
+  <text x="503" y="305" class="small">Smarter tools and creative workflows</text>
+
+  <circle cx="470" cy="360" r="18" fill="#102b58" stroke="#58a6ff"/>
+  <text x="503" y="358" class="head">Problem Solving</text>
+  <text x="503" y="383" class="small">Practical ideas for real-world needs</text>
+
+  <text x="838" y="62" class="title">🎯  CURRENT FOCUS</text>
+  <text x="838" y="122" class="head">Modern Java</text>
+  <rect x="838" y="142" width="286" height="11" rx="6" fill="#102341"/>
+  <rect x="838" y="142" width="238" height="11" rx="6" fill="#2f81f7"/>
+
+  <text x="838" y="200" class="head">React &amp; UI Development</text>
+  <rect x="838" y="220" width="286" height="11" rx="6" fill="#102341"/>
+  <rect x="838" y="220" width="220" height="11" rx="6" fill="#22d3ee"/>
+
+  <text x="838" y="278" class="head">AI Tools &amp; Automation</text>
+  <rect x="838" y="298" width="286" height="11" rx="6" fill="#102341"/>
+  <rect x="838" y="298" width="208" height="11" rx="6" fill="#8b5cf6"/>
+
+  <text x="838" y="356" class="head">Clean Code &amp; Best Practices</text>
+  <rect x="838" y="376" width="286" height="11" rx="6" fill="#102341"/>
+  <rect x="838" y="376" width="248" height="11" rx="6" fill="url(#accent)"/>
+</svg>
