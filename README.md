@@ -48,23 +48,7 @@
 
 <br/>
 
-## 📊 GitHub Dashboard
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiranSamaranayake&theme=github_dark" alt="Hiran Samaranayake GitHub profile details" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HiranSamaranayake&theme=github_dark" alt="Hiran Samaranayake GitHub statistics" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiranSamaranayake&theme=github_dark" alt="Repositories by language" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HiranSamaranayake&theme=github_dark" alt="Most used commit languages" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HiranSamaranayake&theme=github_dark&utcOffset=5.5" alt="Productive coding time" width="49%" />
-
-</div>
 
 <br/>
 
